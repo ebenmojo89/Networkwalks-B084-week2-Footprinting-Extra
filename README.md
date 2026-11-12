@@ -8,7 +8,7 @@
 | **Pentester Name (Cybersecurity Professional)** | **Ebenezer Twumasi Frimpong** |
 | **Program/Batch** | B084-Networkwalks |
 | **Date** | 11 November 2026 |
-| **Modules completed** | W2-PM2 (GHDB)<br>W2-PM2 (Maltego)<br>W2-PM4 (theHarvester) |
+| **Modules completed** | W2-PM2 (GHDB)<br>W2-PM3 (Maltego)<br>W2-PM4 (theHarvester) |
 | **Client/Target** | Networkwalks (secured written permission already) |
 | **Permission secured from client?** | Yes |
 | **Phase covered** | **Phase 1:** Reconnaissance & Footprinting |
